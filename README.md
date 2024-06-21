@@ -2,7 +2,7 @@
 - 👀 I’m interested in, everything i can write java, python, javascript, html
 - 🌱 I’m currently learning, nothing I have learn everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in my email adimn@linuxdude.gr
+- 📫 How to reach me in my email admin@linuxdude.gr
 
 <!---
 andreaspapachristos/andreaspapachristos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
